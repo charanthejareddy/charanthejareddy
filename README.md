@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charanthejareddy
-- 👀 I’m interested in Data science
-- 🌱 I’m curreently working as Data analyst in HCL Technologies
+- 👀 I’m interested in Data
+- 🌱 I’m currently working as a Senior Data Engineer
 - 💞️ I’m looking to collaborate with Data 
 - 📫 Reach me at eapacharanthejareddy@gmail.com
 
